@@ -4,6 +4,7 @@
   
 ## 1. Objectives
 
+
 The objective of this project is to demonstrate the application of Generative Adversarial Networks (GANs) to generate sample MNIST images from noise.
 
 ## 2.  Generative Adversarial Networks (GANs)
